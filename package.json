@@ -23,6 +23,7 @@
     "solidity-coverage": "^0.7.21"
   },
   "dependencies": {
-    "@openzeppelin/contracts": "^4.6.0"
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.3",
+    "@openzeppelin/contracts": "^4.7.0"
   }
 }
